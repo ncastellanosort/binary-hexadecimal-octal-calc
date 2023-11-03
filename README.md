@@ -1,5 +1,11 @@
 <h1>Conversor of Binary, Hexadecimal, Decimal and Octal 👨‍💻</h1>
 
+<div align="center">
+
+  ![Coding.](https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif "Binary gif") 
+  
+</div>
+
 * __Binary System (Sistema Binario):__
 > Computers use the binary system to represent data and perform calculations. Electronic circuits rely on binary signals (0 and 1) to process information. It is fundamental for programming and digital data storage.
 
